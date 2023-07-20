@@ -26,6 +26,6 @@ Bones which are end points (have no children) will move their tail in the same o
 
 ## How to use
 - Once installed, the option will appear under the **Armature menu** in 3D View when in Armature Edit mode
-- Simply select all the bones you want to fix in Edit mode and click **Armature > Smart Bone Disssolve**
+- Simply select all the bones you want to fix in Edit mode and click **Armature > Smart Bone Reconnect**
 
 ![Alt text](/example-images/image-02.png)
